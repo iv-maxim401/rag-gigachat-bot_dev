@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+chroma-env/
+chroma/
